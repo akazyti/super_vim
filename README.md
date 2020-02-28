@@ -4,6 +4,11 @@ This is My Own Vim Configurations Which I Change Periodically A Step Further for
 
 I Use `Neovim` Rather Then Vim.
 
+**Integrations Done**
+
+1. TypeScript/JavaScript
+2. Python (comming soon)
+
 **Contains**
 
 Coc-settings,
