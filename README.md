@@ -66,7 +66,7 @@ After This Step If You Are Using Ubuntu Select Your Terminal Fonts As Ubuntu and
 9. Vim-Fugitive
 
 ``bash
-    Plug 'tpope/vim-fugitive'
+    Plug 'tpope/vim-fugitive
 ```
 
 10. Vim-jsdoc
