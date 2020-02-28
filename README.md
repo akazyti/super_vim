@@ -23,7 +23,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 1. NerdTree
 
 ```bash
-    'scrooloose/nerdtree'
+    Plug  'scrooloose/nerdtree'
 ```
 2. NerdTreeGitPlugin
 
