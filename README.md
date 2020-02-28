@@ -72,33 +72,33 @@ After This Step If You Are Using Ubuntu Select Your Terminal Fonts As Ubuntu and
 10. Vim-jsdoc
 
 ```bash
-    Plug 'heavenshell/vim-jsdoc'
+    Plug 'heavenshell/vim-jsdoc
 ```
 
 11. Vim Airline
 
 ```bash
-    Plug 'vim-airline/vim-airline'
+    Plug 'vim-airline/vim-airline
 ```
 
 12. Vim-airline-themes
 
 ```bash
-    Plug 'vim-airline/vim-airline-themes'
+    Plug 'vim-airline/vim-airline-themes
 ```
 13. NerdCommenter
 
 ```bash
-    Plug 'scrooloose/nerdcommenter'
+    Plug 'scrooloose/nerdcommenter
 ```
 
 14. Ctrlp Fuzzy Finder
 
 ```bash
-    Plug 'kien/ctrlp.vim'
+    Plug 'kien/ctrlp.vim
 ```
 15. Vim Move
 
 ```bash
-    Plug 'matze/vim-move'
+    Plug 'matze/vim-move
 ```
