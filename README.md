@@ -2,7 +2,7 @@
 
 This is My Own Vim Configurations Which I Change Periodically A Step Further for Better Me.
 
-I Use `Neovim` Rather Then Vim.
+NeoVim is Used
 
 **Integrations Done**
 
